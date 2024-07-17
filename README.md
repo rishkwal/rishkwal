@@ -1,4 +1,4 @@
-### Hi there 👋
+Send sats here: `bc1qcze549k5dkfm4kpsx4l6dv58dull5tn04803km`
 
 <!--
 **rishkwal/rishkwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
